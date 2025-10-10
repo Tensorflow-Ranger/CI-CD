@@ -1,5 +1,5 @@
 def say_hello():
-    print("Hello, world!")
+    print("Hi, world!")
 
 def verify_number(value):
     """
